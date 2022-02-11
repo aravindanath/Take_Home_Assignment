@@ -1,10 +1,10 @@
 # Webdriver Tests
 ## Prerequisites
-  + Git
+  + Git (optional)
   - Java
   * Webdriver
   + ChromeDriver
-  * IDE such as IntelliJ
+  * IDE such as IntelliJ or Eclipse
 
 ## Steps
   
