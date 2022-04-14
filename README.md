@@ -39,7 +39,7 @@
 ### General Requirements
 1. All tests should contain @Test annotation.
 2. All tests should provide a setup and tear down mechanism that closes the browser.
-3. All tests should run successfully from IDE. Provide a way to run tests on unix based OS.
+3. All tests should run successfully from IDE. 
 
 
 ### Test Specific Rubrics
